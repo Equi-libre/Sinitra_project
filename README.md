@@ -8,4 +8,4 @@
 <h3>Pour lancer l'application</h3>
 <p>-bundle install</p>
 <p>-shotgun -p 4567 (pour lancer le serveur local)</p>
-<p>-http://localhost:4567/ (lien d'accès de l'application en local)</p>
+<p>-http://localhost:4567/ (lien d'accès à l'application en local)</p>
